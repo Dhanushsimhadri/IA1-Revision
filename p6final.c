@@ -45,8 +45,8 @@ int main()
 {
     char a[20],b[30];
     int ans;int result;
-input_two_string(a,b);
-ans=strcmp(a,b);
-output(a,b,result);
-return 0;
+    input_two_string(a,b);
+    ans=strcmp(a,b);
+    output(a,b,result);
+    return 0;
 }
